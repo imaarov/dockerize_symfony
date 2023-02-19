@@ -1,4 +1,4 @@
-# dockerze_symfony
+# dockerize symfony
 dockerize symfony app
 ##Todo
 - add nginx image
